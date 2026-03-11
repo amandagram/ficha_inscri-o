@@ -10,3 +10,5 @@ Não usar div
 Criar repositório e comitar sua página
 Publicar no Github Pages
 Responder o questionário
+
+<img width="633" height="499" alt="image" src="https://github.com/user-attachments/assets/16363360-1209-441f-a77b-82bd657e0be7" />
